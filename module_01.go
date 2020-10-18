@@ -1,2 +1,6 @@
-package golang-modules
+package mymodules
 
+// SayHello _
+func SayHello() string {
+	return "Hellow"
+}
