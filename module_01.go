@@ -1,6 +1,6 @@
 package mymodules
 
 // SayHello _
-func SayHello() string {
-	return "Hellow Hellow"
+func SayHello(name string) string {
+	return "Hellow Hellow" + name
 }
