@@ -1,3 +1,3 @@
-module github.com/rifanid98/golang-modules/v4
+module github.com/rifanid98/golang-modules/v5
 
 go 1.15
